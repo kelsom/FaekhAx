@@ -1,0 +1,6 @@
+{
+  "name": "Faekhax",
+  "tagline": "a Installer for Homebrew on 3DS",
+  "body": "# Faek8HaxC ( FaekHax )\r\n\r\nWelcome TO FaekHax. FaekHax is an installer for the homebrew on Nintendo 3DS. \r\nBut it doesnt use a primary or secondary exploit. It is more of a guide of an installer.\r\nIt has all the necessary files to launch the homebrew launcher. The full guide can be read in\r\nthe README.txt file in the folder. It all the executable, boot.3dsx, and including some\r\nbin files which contain code for the ropbin and otherapp. The names of the bin file represent\r\nthe version of the 3DS. For example, OLD11.0.0-33.bin. When you find the right one with your\\\r\nversion, just rename it too \" otherapp.bin \". But the homebrew launcher itself was mainly created and currently\r\nowned by Smea. You can find his page and credits to everyone else here: <https://smealum.github.io/3ds/>\r\nAnd you can find my YouTube Page here: <https://www.youtube.com/channel/UCkmZVT52S2SalkZ_iFYutOw>\r\n\r\n# Download\r\n\r\nYou can download FaekHax here: <https://www.mediafire.com/folder/1cg9qyqyp6cst/FaekhAx>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
